@@ -32,10 +32,10 @@ PCPartPicker Permalink: [https://pcpartpicker.com/list/TXjc8Q](https://pcpartpic
 | Storage 1       | Kioxia EXCERIA PLUS G3 2TB | $147.96 / Php 8,569.84 | NVMe M.2 2280 Gen4 |
 | Storage 2       | – | – | – |
 | Graphics Card   | Palit RTX 5070Ti Gaming Pro-S | $1,142.87 / Php 66,195.03 | Requires 16-pin 12VHPWR |
-| Power Supply    | 1STPLAYER NGDP ATX 3.1 750W | $98.99 / Php 5,789.42 | ATX 3.1, 80+ Gold |
-| Case            | Deepcool CH160 PLUS mATX | $39.81 / Php 2,305.00 | Compact mATX, 305 mm GPU clearance |
+| Power Supply    | 1STPLAYER NGDP ATX 3.1 750W | - | ATX 3.1, 80+ Gold |
+| Case            | Deepcool CH160 PLUS mATX | - | Compact mATX, 305 mm GPU clearance |
 | Case Fans       | Arctic Cooling P12 Slim PWM PST | $9.99 / Php 578.42 | 120mm, slim fan |
-| **Total**       |       | **$2010.48 / Php 116,501.92** | Over budget |
+| **Total**       |       | **$1,871.68 / Php 108,406.86** | Over budget |
 
 ---
 
@@ -53,8 +53,8 @@ Google spreadsheet link: [PG4_PC_Build_With_Budget](https://docs.google.com/spre
 | Storage 1 (SSD) | Kioxia EXCERIA PLUS G3 2TB | [Datablitz](https://ecommerce.datablitz.com.ph/products/kioxia-exceria-plus-g3-pcie-gen4-x4-m-2-2280-nvme-ssd-1tb-2tb-lsd10z001tg8-lsd10z002tg8) | Php 6,650.00 | NVMe Gen4, M.2 slot supported |
 | Storage 2       | – | – | – | – |
 | GPU             | Palit RTX 5070Ti Gaming Pro-S | [PChub](https://www.pchubonline.com/products?search=Palit%20RTX%205070Ti%20Gaming%20Pro-S) | Php 49,250.00 | Requires 2×8-pin PCIe, TBP=300W |
-| PSU             | 1STPLAYER NGDP ATX 3.1 750W | [HiTeqPC](https://www.facebook.com/hiteqpc/) • [Shopee](https://shopee.ph/product/1131033447/26686617119) | Php 5,699.00 | ATX 3.1, sufficient wattage. No listed price on PCPartsPicker, [Amazon US](https://www.amazon.com/1STPLAYER-PLUSGold-Cybenetics-Electrolyte-Capacitor/dp/B0DBW2BXSG?th=1)  Pricing.  |
-| Case            | Deepcool CH160 PLUS mATX | [Dynaquest](https://dynaquestpc.com/products/deepcool-ch160-plus-mini-itx-tg-case-white-r-ch160-whngi0-g-1-black-r-ch-160-bkngmo-g) | Php 3,150.00 | mATX, supports coolers up to 172mm. DeepCool is banned in the USA. No listed price on PCPartsPicker, [AliExpress](https://www.aliexpress.com/item/1005007376823078.html) Price is used.    |
+| PSU             | 1STPLAYER NGDP ATX 3.1 750W | [HiTeqPC](https://www.facebook.com/hiteqpc/) • [Shopee](https://shopee.ph/product/1131033447/26686617119) | Php 5,699.00 | ATX 3.1, sufficient wattage. |
+| Case            | Deepcool CH160 PLUS mATX | [Dynaquest](https://dynaquestpc.com/products/deepcool-ch160-plus-mini-itx-tg-case-white-r-ch160-whngi0-g-1-black-r-ch-160-bkngmo-g) | Php 3,150.00 | mATX, supports coolers up to 172mm. |
 | Case Fans       | Arctic Cooling P12 Slim PWM PST | [PChub](https://www.pchubonline.com/products?search=Arctic%20Cooling%20P12%20Slim%20PWM%20PST) | Php 299.00 | Slim 120mm fan |
 | **Total**       |       |               | **Php 102,503.00** | ❌ 2.5% over budget |
 
@@ -64,11 +64,11 @@ Google spreadsheet link: [PG4_PC_Build_With_Budget](https://docs.google.com/spre
 - **CPU + Motherboard**: Intel® Core™ Ultra 5 245KF uses LGA1700 socket, fully supported by ASRock B860M Pro RS WiFi without BIOS updates. DDR5 and PCIe 5.0 supported.
 - **CPU Cooler**: Thermalright Royal Pretor 130 Ultra fits case clearance (≤172mm). Connects via 4-pin PWM and 3-pin ARGB headers available on motherboard.
 - **RAM**: Corsair Vengeance DDR5 6000MHz 32GB kit is compatible with the motherboard, which supports up to DDR5-7200+ (OC). Dual-channel operation with room for future upgrades.
-- **Storage (SSD)**: Kioxia Exceria Plus G3 works with PCIe Gen4 M.2 slots on motherboard.
+- **Storage (SSD)**: Kioxia Exceria Plus G3 works with PCIe Gen4 M.2 slots on motherboard. Though released earlier, Gen4 SSDs are still widely used in 2024–2025, offering strong speed and value compared to pricier Gen5 models.
 - **GPU**: Palit RTX 5070Ti GamingPro-S fits within 305mm GPU clearance of case (GPU length ≈269mm). Requires 2×8-pin PCIe, supported by PSU.
 - **PSU**: 1STPLAYER NGDP 750W ATX 3.1 provides reliable power, supports 12VHPWR, sufficient wattage for GPU + CPU with headroom.
 - **Case**: Deepcool CH160 Plus mATX supports all chosen components including large GPU and CPU cooler.
-- **Case Fans**: Arctic P12 Slim fits clearance constraints of compact case and improves airflow.
+- **Case Fans**: Arctic P12 Slim fits clearance constraints of compact case and improves airflow. Although older, its 15 mm slim design avoids clearance issues, unlike newer but thicker 2024–2025 fans, making it the most practical choice.
 
 ---
 
@@ -79,12 +79,11 @@ Google spreadsheet link: [PG4_PC_Build_With_Budget](https://docs.google.com/spre
 
 **Trade-offs:**
 To meet with the 2024-2025 release requirements and limitations of only using Metro Manila vendors, parts such as the CPU, RAM and CPU cooler were chosen for compliance despite better alternatives existing. 
-RAM kits are limited to the generation (DDR5), and not by the release date. There were more readily available and cheaper ram kits that would have reduced the cost and increased the quality specifications of the PC.
+- RAM kits are limited to the generation (DDR5), and not by the release date. There were older cheaper ram kits that would have reduced the cost and increased the quality specifications of the PC. Additionally, as the team chose 32gb for future-proofing, we could have chosen a cheaper ram kit and ssd. 
 - Certain Intel’s i5 12-13th generation cpus were much more performative than the chosen Intel Ultra CPU.  
 - The team did not compromise on the quality of the PSU, despite extremely cheaper options that exist in the market.
 - The team used the cheapest motherboard that supports DDR5 and LGA1700 sockets. 
 - Case, Case fans were considered to be not that important to really follow the 2024-2025 release date.
-
 
 ---
 
