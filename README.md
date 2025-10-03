@@ -53,8 +53,8 @@ Google spreadsheet link: [PG4_PC_Build_With_Budget](https://docs.google.com/spre
 | Storage 1 (SSD) | Kioxia EXCERIA PLUS G3 2TB | [Datablitz](https://ecommerce.datablitz.com.ph/products/kioxia-exceria-plus-g3-pcie-gen4-x4-m-2-2280-nvme-ssd-1tb-2tb-lsd10z001tg8-lsd10z002tg8) | Php 6,650.00 | NVMe Gen4, M.2 slot supported |
 | Storage 2       | – | – | – | – |
 | GPU             | Palit RTX 5070Ti Gaming Pro-S | [PChub](https://www.pchubonline.com/products?search=Palit%20RTX%205070Ti%20Gaming%20Pro-S) | Php 49,250.00 | Requires 2×8-pin PCIe, TBP=300W |
-| PSU             | 1STPLAYER NGDP ATX 3.1 750W | [HiTeqPC](https://www.facebook.com/hiteqpc/) • [Shopee](https://shopee.ph/product/1131033447/26686617119) | Php 5,699.00 | ATX 3.1, sufficient wattage |
-| Case            | Deepcool CH160 PLUS mATX | [Dynaquest](https://dynaquestpc.com/products/deepcool-ch160-plus-mini-itx-tg-case-white-r-ch160-whngi0-g-1-black-r-ch-160-bkngmo-g) | Php 3,150.00 | mATX, supports coolers up to 172mm |
+| PSU             | 1STPLAYER NGDP ATX 3.1 750W | [HiTeqPC](https://www.facebook.com/hiteqpc/) • [Shopee](https://shopee.ph/product/1131033447/26686617119) | Php 5,699.00 | ATX 3.1, sufficient wattage. No listed price on PCPartsPicker, [Amazon US](https://www.amazon.com/1STPLAYER-PLUSGold-Cybenetics-Electrolyte-Capacitor/dp/B0DBW2BXSG?th=1)  Pricing.  |
+| Case            | Deepcool CH160 PLUS mATX | [Dynaquest](https://dynaquestpc.com/products/deepcool-ch160-plus-mini-itx-tg-case-white-r-ch160-whngi0-g-1-black-r-ch-160-bkngmo-g) | Php 3,150.00 | mATX, supports coolers up to 172mm. DeepCool is banned in the USA. No listed price on PCPartsPicker, [AliExpress](https://www.aliexpress.com/item/1005007376823078.html) Price is used.    |
 | Case Fans       | Arctic Cooling P12 Slim PWM PST | [PChub](https://www.pchubonline.com/products?search=Arctic%20Cooling%20P12%20Slim%20PWM%20PST) | Php 299.00 | Slim 120mm fan |
 | **Total**       |       |               | **Php 102,503.00** | ❌ 2.5% over budget |
 
@@ -78,23 +78,22 @@ Google spreadsheet link: [PG4_PC_Build_With_Budget](https://docs.google.com/spre
 - ❌ Over budget (by 2.5%)  
 
 **Trade-offs:**
-- GPU took up nearly half the budget but ensures high performance.
-- CPU chosen for release-year compliance despite better-performing older-gen CPUs being available.
-- PSU was not compromised for cheaper options to ensure reliability.
-- Case and fans chosen for compactness and compatibility rather than latest release.
+To meet with the 2024-2025 release requirements and limitations of only using Metro Manila vendors, parts such as the CPU, RAM and CPU cooler were chosen for compliance despite better alternatives existing. 
+RAM kits are limited to the generation (DDR5), and not by the release date. There were more readily available and cheaper ram kits that would have reduced the cost and increased the quality specifications of the PC.
+- Certain Intel’s i5 12-13th generation cpus were much more performative than the chosen Intel Ultra CPU.  
+- The team did not compromise on the quality of the PSU, despite extremely cheaper options that exist in the market.
+- The team used the cheapest motherboard that supports DDR5 and LGA1700 sockets. 
+- Case, Case fans were considered to be not that important to really follow the 2024-2025 release date.
+
 
 ---
 
 ## 6. Conclusion & Learnings
-This project demonstrated the challenge of balancing performance, compatibility, and budget when building a PC. The team learned that vendor availability, taxes, and import duties significantly affect prices in the Philippines compared to international markets. Some components were cheaper locally, while others were more affordable abroad. The GPU remained the single most expensive component, driving the overall cost beyond budget.
 
-Key learnings include:
-- Always check socket, power, and clearance compatibility.
-- Budget planning must consider local pricing differences.
-- Not all components need to be the latest release—SSDs and case fans can be cost-efficient even if older.
-- Power supply quality is critical and should not be sacrificed for cost savings.
-
-Overall, the build is powerful, well-balanced, and future-proof for smooth 1440p gaming with capability at 4K, despite slightly exceeding the budget.
+This project demonstrated that building a custom PC requires balancing performance, compatibility, and budget. The group learned that availability, vendor pricing, and release year restrictions (2024–2025) significantly affect part selection. By tapping into the resource list of the local PC building community, the group was able to find deals, compare pricing, and lower costs without sacrificing quality. 
+Some components were cheaper internationally, while others were more affordable locally, largely due to differences in customs and import taxes. The Philippines and China have lower tariffs under certain trade agreements, while imports from the United States face higher taxes. This explains why some parts sourced from the U.S. ended up being more expensive compared to those from China,Taiwan or Hong Kong. Although the final build went 2.5% over budget, it remains powerful, well-balanced, and future-proof, capable of smooth 1440p gaming with the potential for 4K. Exceptions, such as the case and case fans, were justified since they offered practicality and compatibility with the compact case.
+From the local resource list that mimicked PCPartPicker, most links directed to Shopee, Lazada, or shops outside Metro Manila. To ensure accessibility, the group manually searched whether shops within Metro Manila also carried the same parts. Some stores outside Metro Manila offered cheaper options but were still based in the Philippines.
+The group learned the importance of thoroughly checking component compatibility, including socket type, dimensions, and power requirements. Budget planning must also account for local market prices, which may be significantly higher than international estimates. The group realized that not all parts need to be the latest release; SSDs and slim case fans can still be practical, reliable, and more cost-efficient. Finally, the project highlighted that the GPU is usually the most expensive and important component of a gaming build, making it the key factor in balancing both performance and budget. 
 
 ---
 
@@ -105,7 +104,8 @@ Overall, the build is powerful, well-balanced, and future-proof for smooth 1440p
 
 ## 8. References
 - CPU: [TechPowerUp Review](https://www.techpowerup.com/review/intel-core-ultra-5-245k/) | [YouTube Benchmark](https://www.youtube.com/watch?v=WxXZlONu4Ig)  
-- Local PCBuilder Resource: [Google Sheet](https://docs.google.com/spreadsheets/d/1Us-u2lESWkCEK182bqv-YeVT7DRwZmvTkhb9BfCy47o/edit?gid=1935916716#gid=1935916716)  
+- Local PCBuilder Resource: [Google Sheet](https://docs.google.com/spreadsheets/d/1Us-u2lESWkCEK182bqv-YeVT7DRwZmvTkhb9BfCy47o/edit?gid=1935916716#gid=1935916716)  | [Google Sheet] (https://docs.google.com/spreadsheets/d/1EEKBEmvHRzVSisvi7gt54o_gwxfhhTRLkBTf4wcA_aA/edit?gid=0#gid=0)
 - Community: [r/PHBuildAPC](https://www.reddit.com/r/PHbuildapc/) | [r/buildapc](https://www.reddit.com/r/buildapc/)  
 - DeepCool Ban Context: [Tom's Hardware](https://www.tomshardware.com/pc-components/cooling/deepcool-penalizes-chinese-distributor-for-selling-sanctioned-products-on-amazon-in-the-us-blurred-logo-and-brand-name-change-violated-contract)
+- SPL Tier List [Google Sheet](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/edit?gid=1719706335#gid=1719706335)
 
